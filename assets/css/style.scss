@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.name {
+  color: #47444a;
+}
+
 header {
   display: none;
 }
