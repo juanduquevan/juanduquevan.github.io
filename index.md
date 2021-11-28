@@ -4,6 +4,8 @@ I am a MSE candidate in the Computer Science department at Princeton University,
 
 ![Image](/docs/assets/juan_duque_picture.jpg)
 
+<img src="https://github.com/favicon.ico" width="48">
+
 # Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
