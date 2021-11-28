@@ -1,3 +1,7 @@
+<head>
+  <link href="styles/style.scss" rel="stylesheet" type="text/css">
+</head>
+
 <div class="content">
   <img src="https://juanduquevan.github.io/docs/assets/juan_duque_picture.jpg" width="280">
   <div class="text">
