@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
 .main-content {
   h1 {
     color: #47444a;
