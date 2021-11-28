@@ -14,10 +14,14 @@ header {
 }
 
 img {
-  float:right;
+  float: left;
+  margin-right: 10px;
+  clear:both;
 }
 
-text {
-  float:left;
+p {
+  margin-left: 0px;
+  overflow:auto;
+  display:block;
 }
 
