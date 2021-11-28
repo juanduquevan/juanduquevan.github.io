@@ -2,7 +2,7 @@
 
 I am a MSE candidate in the Computer Science department at Princeton University, under the supervision of professors [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [Elad Hazan](https://www.ehazan.com/). My interests lie in the intersection of Reinforcement Learning and Control Theory, with the goal of developing agents that can use prior knowledge in unseen environments and adapt quickly to them through interaction and human feedback. 
 
-![Image](/docs/assets/juan_duque_picture.jpg =250x250)
+![Image](/docs/assets/juan_duque_picture.jpg | width=250)
 
 # Markdown
 
