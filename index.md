@@ -1,6 +1,6 @@
 # Juan Duque
 
-I am an MSE candidate in the Computer Science department at Princeton University, under the supervision of professors [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [Elad Hazan](https://www.ehazan.com/)
+I am a MSE candidate in the Computer Science department at Princeton University, under the supervision of professors [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [Elad Hazan](https://www.ehazan.com/). My interests lie in the intersection of Reinforcement Learning and Control Theory, whit special emphasis in algorithms with theoretical insights.
 
 # Markdown
 
