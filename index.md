@@ -1,8 +1,6 @@
 # Juan Duque
 
-You can use the [editor on GitHub](https://github.com/juanduquevan/juanduquevan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an MSE candidate in the Computer Science department at Princeton University, under the supervision of professors [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [Elad Hazan](https://www.ehazan.com/)
 
 # Markdown
 
