@@ -3,8 +3,10 @@
 
 @import 'jekyll-theme-cayman';
 
-content.name {
-  color: #47444a;
+.content {
+  h2 {
+    color: #47444a;
+  }
 }
 
 header {
