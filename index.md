@@ -2,9 +2,16 @@
 
 I am a MSE candidate in the Computer Science department at Princeton University, under the supervision of professors [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [Elad Hazan](https://www.ehazan.com/). My interests lie in the intersection of Reinforcement Learning and Control Theory, with the goal of developing agents that can use prior knowledge in unseen environments and adapt quickly to them through interaction and human feedback. 
 
-![Image](/docs/assets/juan_duque_picture.jpg)
+<div class="content">
+  <img src="somesrc">
+  <div class="text">
+    <h3><strong>Juan Duque</strong></h3>
+    <p>I am a MSE candidate in the Computer Science department at Princeton University, under the         supervision of professors [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/) and [Elad     Hazan](https://www.ehazan.com/). My interests lie in the intersection of Reinforcement Learning       and Control Theory, with the goal of developing agents that can use prior knowledge in unseen         environments and adapt quickly to them through interaction and human feedback. </p>
+  </div>
+</div>
 
-<img src="https://github.com/favicon.ico" width="48">
+
+<img src="https://juanduquevan.github.io/docs/assets/juan_duque_picture.jpg" width="48">
 
 # Markdown
 
