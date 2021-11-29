@@ -12,7 +12,7 @@
     Before Princeton, I did my undergraduate at Georgia Tech where I worked with professors <a               href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and <a                           href="https://people.math.gatech.edu/~loss/">Michael Loss</a>.
     </p>
     <div class="menu">
-      <a href="mailto: juduque@princeton.edu">Email</a> / <a href="">CV</a> / <a href="https://github.com/juanduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
+      <a href="mailto: juduque@princeton.edu">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/juanduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
     </div>
   </div>
 </div>
