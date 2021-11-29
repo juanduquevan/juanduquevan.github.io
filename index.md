@@ -16,5 +16,10 @@
       <a href="mailto: juduque@princeton.edu">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/juanduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
     </div>
   </div>
+  <h2><strong>Research</strong></h2>
+  <img src="https://juanduquevan.github.io/docs/assets/Exploration.PNG" width="200">
+  <div class="text">
+    Juan Duque, John Li. Deep Exploration Bonuses for Episodic MDPs, 2021. Summary of work done available 
+  </div>
 </div>
 
