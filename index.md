@@ -9,8 +9,9 @@
     <p>I am a MSE candidate in the Computer Science department at Princeton University, under the supervision of professors <a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>       and <a href="https://www.ehazan.com/">Elad Hazan</a>. My interests lie in the intersection of           Reinforcement Learning and Control Theory, with the goal of developing agents that can use               prior knowledge in unseen environments and adapt quickly through interaction and human                   feedback.
     </p>
     <p>
-    Before Princeton, I did my undergraduate at Georgia Tech where I worked with professors <a               href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and <a                           href="https://people.math.gatech.edu/~loss/">Michael Loss</a>.
-    </p>
+    Before Princeton, I did my undergraduate at Georgia Tech where I worked with professors <a               href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and <a                           href="https://people.math.gatech.edu/~loss/">Michael Loss</a> in Reinforcement Learning.
+    </p> 
+    <br>
     <div class="menu">
       <a href="mailto: juduque@princeton.edu">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/juanduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
     </div>
