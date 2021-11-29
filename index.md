@@ -11,6 +11,9 @@
     <p>
     Before Princeton, I did my undergraduate at Georgia Tech where I worked with professors <a               href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and <a                           href="https://people.math.gatech.edu/~loss/">Michael Loss</a>.
     </p>
+    <div class="menu">
+      <a href="">Email</a>/<a href="">CV</a>/<a href="">GitHub</a>/<a href="">LinkedIn</a>
+    </div>
   </div>
 </div>
 
