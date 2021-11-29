@@ -19,7 +19,14 @@
   <h2><strong>Research</strong></h2>
   <img src="https://juanduquevan.github.io/docs/assets/Exploration.PNG" width="200">
   <div class="text">
+    <br>
     Juan Duque, John Li. Deep Exploration Bonuses for Episodic MDPs, 2021. Summary of work done available 
+  </div>
+  <img src="https://juanduquevan.github.io/docs/assets/Goals2.PNG" width="200">
+  <div class="text">
+    <br>
+    Juan Duque, Michael Loss, Charles Isbell. Discovering Goals in Hierarchical
+Reinforcement Learning, 2018. Summary of work done available  
   </div>
 </div>
 
