@@ -21,7 +21,7 @@
   <img src="https://juanduquevan.github.io/docs/assets/Exploration.PNG" width="200">
   <div class="text">
     <br>
-    <strong>Juan Duque</strong>, John Li. <i>Deep Exploration Bonuses for Episodic MDPs</i>, 2021. Summary of work done available <a href="https://juanduquevan.github.io/docs/assets/RL_exploration_project (6) (2).pdf">here</a>.
+    <strong>Juan Duque</strong>, John Li. <i>Deep Exploration Bonuses for Episodic MDPs</i>, 2021. Summary of work done available <a href="https://juanduquevan.github.io/docs/assets/Deep_Exploration_Bonuses.pdf">here</a>.
     <br>
     <br>
   </div>
