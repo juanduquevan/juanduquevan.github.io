@@ -30,7 +30,7 @@
     <br>
     <br>
     <strong>Juan Duque</strong>, Michael Loss, Charles Isbell. <i>Discovering Goals in Hierarchical
-Reinforcement Learning</i>, 2018. Summary of work done available <a href="https://juanduquevan.github.io/docs/assets/DiscoveringGoals (2).pdf">here</a>.
+Reinforcement Learning</i>, 2018. Summary of work done available <a href="https://juanduquevan.github.io/docs/assets/DiscoveringGoals.pdf">here</a>.
   </div>
 </div>
 <br>
