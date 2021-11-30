@@ -17,6 +17,7 @@
     </div>
   </div>
   <h2><strong>Research</strong></h2>
+  <br>
   <img src="https://juanduquevan.github.io/docs/assets/Exploration.PNG" width="200">
   <div class="text">
     <br>
