@@ -2,8 +2,10 @@
       href="{{ '/assets/css/style.css' | relative_url }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div class="content">
-  <img src="https://juanduquevan.github.io/docs/assets/IMG_0619.jpg" width="300">
+<div class="paper">
+  <img class="portrait"
+         src="https://juanduquevan.github.io/docs/assets/IMG_0619.jpg" width="300">
+    <div class="text">
   <div class="text">
     <h2><strong>Juan Duque</strong></h2>
     <p>I’m a third year PhD student in Reinforcement Learning at Université de Montréal & Mila, advised by <a href="https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en">Aaron Courville</a>. My research unites multi agent RL, game theory, and scalable algorithms, most recently Advantage Alignment, which I apply to social dilemmas as well as climate policy simulators, large language model negotiation, and games. I enjoy turning rigorous theory into efficient algorithms that help AI systems reason and coordinate for real world impact.
@@ -15,22 +17,6 @@
     <div class="menu">
       <a href="mailto: juanduquevan@gmail.com">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/jduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
     </div>
-  </div>
-  <h2><strong>Research</strong></h2>
-  <br>
-  <img src="https://juanduquevan.github.io/docs/assets/Exploration.PNG" width="200">
-  <div class="text">
-    <br>
-    <strong>Juan Duque</strong>, John Li. <i>Deep Exploration Bonuses for Episodic MDPs</i>, 2021. Summary of work done available <a href="https://juanduquevan.github.io/docs/assets/Deep_Exploration_Bonuses.pdf">here</a>.
-    <br>
-    <br>
-  </div>
-  <img src="https://juanduquevan.github.io/docs/assets/Goals2.PNG" width="200">
-  <div class="text">
-    <br>
-    <br>
-    <strong>Juan Duque</strong>, Michael Loss, Charles Isbell. <i>Discovering Goals in Hierarchical
-Reinforcement Learning</i>, 2018. Summary of work done available <a href="https://juanduquevan.github.io/docs/assets/DiscoveringGoals.pdf">here</a>.
   </div>
 </div>
 <br>
