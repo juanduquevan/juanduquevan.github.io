@@ -2,45 +2,45 @@
 ---
 
 /* 1 ────────────────────────────────────────────────────────────────
-   Bring in the Cayman base styles that GitHub Pages generates.   */
+   Bring in the base Cayman stylesheet that GitHub Pages supplies   */
 @import "{{ site.theme }}";
 
 /* 2 ────────────────────────────────────────────────────────────────
-   Colour tweaks                                                  */
+   Global colour tweaks                                            */
 h2, h3 { color: #47444a; }
 
 /* 3 ────────────────────────────────────────────────────────────────
-   Layout for the profile header                                  */
+   Profile header layout                                           */
 .content {
   display: flex;
-  flex-wrap: wrap;     /* picture and text drop under one another on small screens */
+  flex-wrap: wrap;          /* stack blocks when they don’t fit */
   gap: 1.5rem;
 }
 
 .content > img {
-  flex: 0 0 180px;     /* reserve 180 px for the portrait, let it shrink if needed */
+  flex: 0 0 180px;          /* reserve up to 180 px for the portrait */
   max-width: 100%;
   height: auto;
   border-radius: 4px;
 }
 
 .content > .text {
-  flex: 1 1 320px;     /* text block grows to fill the remaining row space */
+  flex: 1 1 320px;          /* text grows to fill the row */
 }
 
 /* 4 ────────────────────────────────────────────────────────────────
-   Navigation / link bar                                          */
+   Navigation bar                                                  */
 .menu {
   text-align: center;
   margin-top: 0.5rem;
 }
 
 /* 5 ────────────────────────────────────────────────────────────────
-   Hide the default GitHub Pages banner but keep the site title   */
+   Hide the default GitHub Pages banner (keeps title if you add it) */
 header[role="banner"] { display: none; }
 
 /* 6 ────────────────────────────────────────────────────────────────
-   Mobile overrides                                               */
+   Mobile overrides                                                */
 @media (max-width: 600px) {
   .content {
     flex-direction: column;
