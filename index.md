@@ -14,7 +14,8 @@
       <a href="mailto:juanduquevan@gmail.com">Email</a> / 
       <a href="https://juanduquevan.github.io/docs/assets/CV (23).pdf">CV</a> / 
       <a href="https://github.com/jduquevan">GitHub</a> / 
-      <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a> /
+      <a href="https://scholar.google.ca/citations?user=Ugv5DHgAAAAJ&hl=en">Scholar</a>
     </div>
   </div>
 </div>
@@ -34,7 +35,7 @@
     Tianyu Zhang, Gauthier Gidel, Aaron Courville.  
     <em>Advantage Alignment Algorithms</em>  
     <a href="https://arxiv.org/abs/2406.14662" target="_blank">[pdf]</a>  
-    <span class="badge iclr">ICLR 2025 • Oral</span>
+    <span class="badge iclr">ICLR 2025 • <a href="https://www.youtube.com/watch?v=BtwynahpQco&t">Oral</a></span>
   </li>
 
   <li class="paper-item">
