@@ -1,70 +1,66 @@
 ---
 ---
 
-/* ────────────────────────────────────────────────────────────────
-   0  Base Cayman stylesheet (GitHub Pages compiles this for you) */
 @import "{{ site.theme }}";
 
-/* ────────────────────────────────────────────────────────────────
-   1  Global tweaks                                           */
-h2, h3 { color:#47444a; }
+h2, h3 {
+  color: #47444a;
+}
 
-/* ────────────────────────────────────────────────────────────────
-   2  Site-wide container (keeps everything centred on large screens) */
-.content { max-width: 900px; margin: 0 auto; }
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-/* ────────────────────────────────────────────────────────────────
-   3  Intro block: portrait + bio                                */
 .intro {
   display: flex;
-  flex-wrap: wrap;      /* stacks on small screens               */
+  flex-wrap: wrap;
   gap: 1.5rem;
 }
 
-// .intro > img {          /* the portrait */
-//   flex: 0 0 250px;
-//   max-width: 130%;
-//   height: auto;
-//   border-radius: 4px;
-// }
-.intro > img {
-  flex: 0 0 250px;
-  width: 250px;
-  height: auto;
-  border-radius: 4px;
-}
-.portrait {
-  flex: 0 0 350px;
-  width: 350px;
-  max-width: none;
-  height: auto;
-}
-
-.intro > .text {        /* the bio paragraph column */
+.intro > .text {
   flex: 1 1 320px;
 }
 
-/* ────────────────────────────────────────────────────────────────
-   4  Research entries                                          */
-.paper img {            /* thumbnail to the left on desktop      */
+.paper img {
   float: left;
   width: 200px;
   margin: 0 1.25rem 1rem 0;
 }
-.paper .text { overflow: hidden; }
 
-/* ────────────────────────────────────────────────────────────────
-   5  Navigation bar at top of bio                              */
-.menu { text-align: center; margin-top: .5rem; }
+.paper .text {
+  overflow: hidden;
+}
 
-/* ────────────────────────────────────────────────────────────────
-   6  Hide default GitHub Pages header banner                   */
-header[role="banner"] { display: none; }
+.menu {
+  text-align: center;
+  margin-top: 0.5rem;
+}
 
-/* ────────────────────────────────────────────────────────────────
-   7  Mobile overrides                                          */
+header[role="banner"] {
+  display: none;
+}
+
 @media (max-width: 600px) {
-  .intro      { flex-direction: column; text-align: center; align-items: center; }
-  .intro > img{ margin: 0 0 1rem; }
-  .paper img  { float: none; display: block; margin: 0 auto 1rem; }
+  .intro {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .intro > img {
+    margin: 0 0 1rem;
+  }
+  .paper img {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+}
+
+.paper > img.portrait {
+  float: none;
+  width: 350px !important;
+  flex: 0 0 350px !important;
+  max-width: none;
+  height: auto;
 }
