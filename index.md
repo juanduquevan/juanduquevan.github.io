@@ -1,19 +1,19 @@
-<head>
-  <link href="styles/style.scss" rel="stylesheet" type="text/css">
-</head>
+<link rel="stylesheet"
+      href="{{ '/assets/css/style.css' | relative_url }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <div class="content">
   <img src="https://juanduquevan.github.io/docs/assets/juan_duque_picture.jpg" width="300">
   <div class="text">
     <h2><strong>Juan Duque</strong></h2>
-    <p>I am a MSE candidate in the Computer Science department at Princeton University, under the supervision of professors <a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>       and <a href="https://www.ehazan.com/">Elad Hazan</a>. My interests lie in the intersection of           Reinforcement Learning and Control Theory, with the goal of developing agents that can use               prior knowledge in unseen environments and adapt quickly through interaction and human                   feedback.
+    <p>I’m a third year PhD student in Reinforcement Learning at Université de Montréal & Mila, advised by Aaron Courville. My research unites multi agent RL, game theory, and scalable alignment algorithms, most recently Advantage Alignment, which I apply to social dilemma and climate policy simulators as well as governance, large language model negotiation, and games. I enjoy turning rigorous theory into efficient algorithms that help AI systems reason and coordinate for real world impact.
     </p>
     <p>
-    Before Princeton, I did my undergraduate at Georgia Tech where I worked with professors <a               href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and <a                           href="https://people.math.gatech.edu/~loss/">Michael Loss</a> in Reinforcement Learning.
+    Before Mila, I did my master's at the <a href="https://princeton-nlp.github.io/">Princeton NLP group</a> with <a href="https://karthikncode.github.io//">Karthik Narasimhan</a> and my undergraduate at Georgia Tech where I worked with professors <a href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and <a href="https://people.math.gatech.edu/~loss/">Michael Loss</a> in Reinforcement Learning.
     </p> 
     <br>
     <div class="menu">
-      <a href="mailto: juduque@princeton.edu">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/juanduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
+      <a href="mailto: juanduquevan@gmail.com">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/jduquevan>GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
     </div>
   </div>
   <h2><strong>Research</strong></h2>
