@@ -1,54 +1,58 @@
 ---
 ---
 
-/* 1 ────────────────────────────────────────────────────────────────
-   Bring in the Cayman base styles that GitHub Pages generates.   */
+/* ────────────────────────────────────────────────────────────────
+   0  Base Cayman stylesheet (GitHub Pages compiles this for you) */
 @import "{{ site.theme }}";
 
-/* 2 ────────────────────────────────────────────────────────────────
-   Colour tweaks                                                  */
-h2, h3 { color: #47444a; }
+/* ────────────────────────────────────────────────────────────────
+   1  Global tweaks                                           */
+h2, h3 { color:#47444a; }
 
-/* 3 ────────────────────────────────────────────────────────────────
-   Layout for the profile header                                  */
-.content {
+/* ────────────────────────────────────────────────────────────────
+   2  Site-wide container (keeps everything centred on large screens) */
+.content { max-width: 900px; margin: 0 auto; }
+
+/* ────────────────────────────────────────────────────────────────
+   3  Intro block: portrait + bio                                */
+.intro {
   display: flex;
-  flex-wrap: wrap;     /* picture and text drop under one another on small screens */
+  flex-wrap: wrap;      /* stacks on small screens               */
   gap: 1.5rem;
 }
 
-.content > img {
-  flex: 0 0 180px;     /* reserve 180 px for the portrait, let it shrink if needed */
+.intro > img {          /* the portrait */
+  flex: 0 0 200px;
   max-width: 100%;
   height: auto;
   border-radius: 4px;
 }
 
-.content > .text {
-  flex: 1 1 320px;     /* text block grows to fill the remaining row space */
+.intro > .text {        /* the bio paragraph column */
+  flex: 1 1 320px;
 }
 
-/* 4 ────────────────────────────────────────────────────────────────
-   Navigation / link bar                                          */
-.menu {
-  text-align: center;
-  margin-top: 0.5rem;
+/* ────────────────────────────────────────────────────────────────
+   4  Research entries                                          */
+.paper img {            /* thumbnail to the left on desktop      */
+  float: left;
+  width: 200px;
+  margin: 0 1.25rem 1rem 0;
 }
+.paper .text { overflow: hidden; }
 
-/* 5 ────────────────────────────────────────────────────────────────
-   Hide the default GitHub Pages banner but keep the site title   */
+/* ────────────────────────────────────────────────────────────────
+   5  Navigation bar at top of bio                              */
+.menu { text-align: center; margin-top: .5rem; }
+
+/* ────────────────────────────────────────────────────────────────
+   6  Hide default GitHub Pages header banner                   */
 header[role="banner"] { display: none; }
 
-/* 6 ────────────────────────────────────────────────────────────────
-   Mobile overrides                                               */
+/* ────────────────────────────────────────────────────────────────
+   7  Mobile overrides                                          */
 @media (max-width: 600px) {
-  .content {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .content > img {
-    margin: 0 0 1rem;
-  }
+  .intro      { flex-direction: column; text-align: center; align-items: center; }
+  .intro > img{ margin: 0 0 1rem; }
+  .paper img  { float: none; display: block; margin: 0 auto 1rem; }
 }
