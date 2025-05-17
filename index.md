@@ -4,7 +4,7 @@
 
 <div class="paper">
   <img class="portrait"
-         src="https://juanduquevan.github.io/docs/assets/IMG_0619.jpg" width="400" alt="Juan Duque">
+         src="https://juanduquevan.github.io/docs/assets/IMG_0619.jpg" width="300" alt="Juan Duque">
   <div class="text">
     <h2><strong>Juan Duque</strong></h2>
     <p>I’m a third year PhD student in Reinforcement Learning at Université de Montréal & Mila, advised by <a href="https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en">Aaron Courville</a>. My research unites multi agent RL, game theory, and scalable algorithms, which I apply to social dilemmas as well as climate policy simulators, large language model negotiation, and games. I enjoy turning rigorous theory into efficient algorithms that help AI systems reason and coordinate for real world impact.</p>
