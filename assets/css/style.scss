@@ -33,6 +33,12 @@ h2, h3 { color:#47444a; }
   height: auto;
   border-radius: 4px;
 }
+.portrait {
+  flex: 0 0 350px;
+  width: 350px;
+  max-width: none;
+  height: auto;
+}
 
 .intro > .text {        /* the bio paragraph column */
   flex: 1 1 320px;
