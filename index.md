@@ -15,10 +15,45 @@
     </p> 
     <br>
     <div class="menu">
-      <a href="mailto: juanduquevan@gmail.com">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/Curriculum_Vitae.pdf">CV</a> / <a href="https://github.com/jduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
+      <a href="mailto: juanduquevan@gmail.com">Email</a> / <a href="https://juanduquevan.github.io/docs/assets/CV (23).pdf">CV</a> / <a href="https://github.com/jduquevan">GitHub</a> / <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a>
     </div>
   </div>
 </div>
+<h2><strong>Publications</strong></h2>
+
+<ul class="pub-list">
+
+  <li class="paper-item">
+    Quentin Bertrand, <strong>Juan Agustin Duque</strong>, Emilio Calvano, Gauthier Gidel.
+    <em>Q-learners Can Provably Collude in the Iterated Prisoner’s Dilemma</em>
+    <a href="https://arxiv.org/abs/2312.08484" target="_blank">[pdf]</a>
+    <span class="badge icml">ICML 2025</span>
+  </li>
+
+  <li class="paper-item">
+    <strong>Juan Agustin Duque*</strong>, Milad Aghajohari*, Tim Cooijmans, Razvan Ciuca,
+    Tianyu Zhang, Gauthier Gidel, Aaron Courville.
+    <em>Advantage Alignment Algorithms</em>
+    <a href="https://arxiv.org/abs/2406.14662" target="_blank">[pdf]</a>
+    <span class="badge iclr">ICLR 2025 &bull; Oral</span>
+  </li>
+
+  <li class="paper-item">
+    Milad Aghajohari*, <strong>Juan Agustin Duque*</strong>, Tim Cooijmans, Aaron Courville.
+    <em>LOQA: Learning with Opponent Q-Learning Awareness</em>
+    <a href="https://openreview.net/pdf?id=FDQF6A1s6M" target="_blank">[pdf]</a>
+    <span class="badge iclr">ICLR 2024</span>
+  </li>
+
+  <li class="paper-item">
+    Milad Aghajohari, Tim Cooijmans, <strong>Juan Agustin Duque</strong>, Shunichi Akatsuka,
+    Aaron Courville. <em>Best Response Shaping</em>
+    <a href="https://drive.google.com/file/d/1b2WMNDo8Mrv0r3mNx5uxOTGfxGz1FX-8/view?usp=sharing"
+       target="_blank">[pdf]</a>
+    <span class="badge rlc">RLC 2024</span>
+  </li>
+
+</ul>
 <br>
 <br>
 
