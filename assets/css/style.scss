@@ -21,9 +21,15 @@ h2, h3 { color:#47444a; }
   gap: 1.5rem;
 }
 
-.intro > img {          /* the portrait */
+// .intro > img {          /* the portrait */
+//   flex: 0 0 250px;
+//   max-width: 130%;
+//   height: auto;
+//   border-radius: 4px;
+// }
+.intro > img {
   flex: 0 0 250px;
-  max-width: 130%;
+  width: 250px;
   height: auto;
   border-radius: 4px;
 }
