@@ -4,7 +4,7 @@
 
 <div class="paper">
   <img class="portrait"
-         src="https://juanduquevan.github.io/docs/assets/IMG_0619.jpg" width="300">
+         src="https://juanduquevan.github.io/docs/assets/IMG_0619.jpg" width="350">
     <div class="text">
   <div class="text">
     <h2><strong>Juan Duque</strong></h2>
