@@ -1,39 +1,54 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+/* 1 ────────────────────────────────────────────────────────────────
+   Bring in the Cayman base styles that GitHub Pages generates.   */
+@import "{{ site.theme }}";
 
+/* 2 ────────────────────────────────────────────────────────────────
+   Colour tweaks                                                  */
+h2, h3 { color: #47444a; }
+
+/* 3 ────────────────────────────────────────────────────────────────
+   Layout for the profile header                                  */
 .content {
-  h2 {
-    color: #47444a;
-  }
+  display: flex;
+  flex-wrap: wrap;     /* picture and text drop under one another on small screens */
+  gap: 1.5rem;
 }
 
+.content > img {
+  flex: 0 0 180px;     /* reserve 180 px for the portrait, let it shrink if needed */
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.content > .text {
+  flex: 1 1 320px;     /* text block grows to fill the remaining row space */
+}
+
+/* 4 ────────────────────────────────────────────────────────────────
+   Navigation / link bar                                          */
 .menu {
   text-align: center;
+  margin-top: 0.5rem;
 }
 
-header {
-  display: none;
-}
+/* 5 ────────────────────────────────────────────────────────────────
+   Hide the default GitHub Pages banner but keep the site title   */
+header[role="banner"] { display: none; }
 
-h2 {
-  color: #47444a;
-}
+/* 6 ────────────────────────────────────────────────────────────────
+   Mobile overrides                                               */
+@media (max-width: 600px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 
-h3 {
-  color: #47444a;
+  .content > img {
+    margin: 0 0 1rem;
+  }
 }
-
-img {
-  float: left;
-  margin-right: 40px;
-  clear:both;
-}
-
-p {
-  margin-left: 0px;
-  overflow:auto;
-  display:block;
-}
-
