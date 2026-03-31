@@ -12,7 +12,7 @@
     <br>
     <div class="menu">
       <a href="mailto:juanduquevan@gmail.com">Email</a> / 
-      <a href="https://juanduquevan.github.io/docs/assets/CV_new.pdf">CV</a> / 
+      <a href="https://juanduquevan.github.io/docs/assets/CV (28).pdf">CV</a> / 
       <a href="https://github.com/jduquevan">GitHub</a> / 
       <a href="https://www.linkedin.com/in/juan-duque/">LinkedIn</a> /
       <a href="https://scholar.google.ca/citations?user=Ugv5DHgAAAAJ&hl=en">Scholar</a>
